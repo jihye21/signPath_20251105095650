@@ -13,7 +13,7 @@ Releases are built locally and uploaded to SignPath.io for code signing.
 Signed artifacts (.exe or .msi) are verified for integrity before distribution.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache License](LICENSE).
 
 ## Code Signing Policy
 See [CODE_SIGNING_POLICY.md](CODE_SIGNING_POLICY.md) for details.
